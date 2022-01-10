@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "385546837058",
+    "project_id": "attic-ac316",
+    "storage_bucket": "attic-ac316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385546837058:android:d21838ae66a842a35ca1db",
+        "android_client_info": {
+          "package_name": "com.example.attic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385546837058-0pd8i045iktt757d82arcvu50kae3v24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZdyLTYox7Aujt-KKBbkdv602ShBkEJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385546837058-0pd8i045iktt757d82arcvu50kae3v24.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385546837058-tth5ls0bubttpnevc0icvg27u2khfu32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.attic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
